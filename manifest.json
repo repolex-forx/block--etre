@@ -99,6 +99,291 @@
       ],
       "ast": [
         "aggregate/ast/b6a89fcc477f24e5752387b22f9328fb52e1330f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b6a89fcc477f24e5752387b22f9328fb52e1330f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/alexflint/go-arg",
+          "ecosystem": "GO",
+          "version": "1.5.1",
+          "githubOrg": "alexflint",
+          "githubRepo": "go-arg",
+          "githubCommit": "bee5cf5d7cc07c41b2a528052bfba0566b5069c0",
+          "githubTag": "v1.5.1",
+          "githubUrl": "https://github.com/alexflint/go-arg",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/daniel-nichter/go-metrics",
+          "ecosystem": "GO",
+          "version": "1.0.1",
+          "githubOrg": "daniel-nichter",
+          "githubRepo": "go-metrics",
+          "githubCommit": "b55f1cc91b3690f5c137d01f78d4334243af3808",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/daniel-nichter/go-metrics",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-test/deep",
+          "ecosystem": "GO",
+          "version": "1.1.1",
+          "githubOrg": "go-test",
+          "githubRepo": "deep",
+          "githubCommit": "9e863ff5cf900f95c7e8a5e8248300939257744b",
+          "githubTag": "v1.1.1",
+          "githubUrl": "https://github.com/go-test/deep",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/golang/groupcache",
+          "ecosystem": "GO",
+          "version": "0.0.0-20241129210726-2c02b8208cf8",
+          "githubOrg": "golang",
+          "githubRepo": "groupcache",
+          "githubUrl": "https://github.com/golang/groupcache",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/gorilla/websocket",
+          "ecosystem": "GO",
+          "version": "1.5.3",
+          "githubOrg": "gorilla",
+          "githubRepo": "websocket",
+          "githubCommit": "ce903f6d1d961af3a8602f2842c8b1c3fca58c4d",
+          "githubTag": "v1.5.3",
+          "githubUrl": "https://github.com/gorilla/websocket",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/stretchr/testify",
+          "ecosystem": "GO",
+          "version": "1.9.0",
+          "githubOrg": "stretchr",
+          "githubRepo": "testify",
+          "githubCommit": "bb548d0473d4e1c9b7bbfd6602c7bf12f7a84dd2",
+          "githubTag": "v1.9.0",
+          "githubUrl": "https://github.com/stretchr/testify",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/swaggo/http-swagger",
+          "ecosystem": "GO",
+          "version": "1.3.4",
+          "githubOrg": "swaggo",
+          "githubRepo": "http-swagger",
+          "githubCommit": "2c39a92cf1c8370933c6b96bb8ee1415f8867e02",
+          "githubTag": "v1.3.4",
+          "githubUrl": "https://github.com/swaggo/http-swagger",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/swaggo/swag",
+          "ecosystem": "GO",
+          "version": "1.16.4",
+          "githubOrg": "swaggo",
+          "githubRepo": "swag",
+          "githubCommit": "0b9e347c196710ea155a147782bf51707a600c2c",
+          "githubTag": "v1.16.4",
+          "githubUrl": "https://github.com/swaggo/swag",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "go.mongodb.org/mongo-driver/v2",
+          "ecosystem": "GO",
+          "version": "2.3.0",
+          "githubOrg": "mongodb",
+          "githubRepo": "mongo-go-driver",
+          "githubCommit": "54bab6dd3e8ea728597da6d513265bc503a8293e",
+          "githubTag": "v2.3.0",
+          "githubUrl": "https://github.com/mongodb/mongo-go-driver.git",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/KyleBanks/depth",
+          "ecosystem": "GO",
+          "version": "1.2.1",
+          "githubOrg": "KyleBanks",
+          "githubRepo": "depth",
+          "githubCommit": "fec4dc38699e903ea7b44b2887549d2e7cd0a9f1",
+          "githubTag": "v1.2.1",
+          "githubUrl": "https://github.com/KyleBanks/depth",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/alexflint/go-scalar",
+          "ecosystem": "GO",
+          "version": "1.2.0",
+          "githubOrg": "alexflint",
+          "githubRepo": "go-scalar",
+          "githubCommit": "489daf05a6ccfffdd72c1d5e972bb14163fa07b1",
+          "githubTag": "v1.2.0",
+          "githubUrl": "https://github.com/alexflint/go-scalar",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/davecgh/go-spew",
+          "ecosystem": "GO",
+          "version": "1.1.1",
+          "githubOrg": "davecgh",
+          "githubRepo": "go-spew",
+          "githubCommit": "8991bc29aa16c548c550c7ff78260e27b9ab7c73",
+          "githubTag": "v1.1.1",
+          "githubUrl": "https://github.com/davecgh/go-spew",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-openapi/jsonpointer",
+          "ecosystem": "GO",
+          "version": "0.21.0",
+          "githubOrg": "go-openapi",
+          "githubRepo": "jsonpointer",
+          "githubCommit": "8b546b950409bd7b131488a88613339cd8937b7f",
+          "githubTag": "v0.21.0",
+          "githubUrl": "https://github.com/go-openapi/jsonpointer",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-openapi/jsonreference",
+          "ecosystem": "GO",
+          "version": "0.21.0",
+          "githubOrg": "go-openapi",
+          "githubRepo": "jsonreference",
+          "githubCommit": "c5fa756d84ccb15425cb8664d142ad550fe58b1b",
+          "githubTag": "v0.21.0",
+          "githubUrl": "https://github.com/go-openapi/jsonreference",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-openapi/spec",
+          "ecosystem": "GO",
+          "version": "0.21.0",
+          "githubOrg": "go-openapi",
+          "githubRepo": "spec",
+          "githubCommit": "af9bab81cf9ab52283c1498b1d076ec68a1a2bcd",
+          "githubTag": "v0.21.0",
+          "githubUrl": "https://github.com/go-openapi/spec",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-openapi/swag",
+          "ecosystem": "GO",
+          "version": "0.23.0",
+          "githubOrg": "go-openapi",
+          "githubRepo": "swag",
+          "githubCommit": "53e32e82f758c8e884819330a87aef294ff10c1f",
+          "githubTag": "v0.23.0",
+          "githubUrl": "https://github.com/go-openapi/swag",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/golang/snappy",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "golang",
+          "githubRepo": "snappy",
+          "githubCommit": "43d5d4cd4e0e3390b0b645d5c3ef1187642403d8",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/golang/snappy",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/josharian/intern",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "josharian",
+          "githubRepo": "intern",
+          "githubCommit": "8e6ff32b3e7c0b018c43953085fe2ac330fe9acd",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/josharian/intern",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/klauspost/compress",
+          "ecosystem": "GO",
+          "version": "1.16.7",
+          "githubOrg": "klauspost",
+          "githubRepo": "compress",
+          "githubCommit": "67a538e2b4df11f8ec7139388838a13bce84b5d5",
+          "githubTag": "v1.16.7",
+          "githubUrl": "https://github.com/klauspost/compress",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/mailru/easyjson",
+          "ecosystem": "GO",
+          "version": "0.7.7",
+          "githubOrg": "mailru",
+          "githubRepo": "easyjson",
+          "githubCommit": "c120ca7ced6051261161ce15e8f1542a4b2567fc",
+          "githubTag": "v0.7.7",
+          "githubUrl": "https://github.com/mailru/easyjson",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/pmezard/go-difflib",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "pmezard",
+          "githubRepo": "go-difflib",
+          "githubCommit": "792786c7400a136282c1664665ae0a8db921c6c2",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/pmezard/go-difflib",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/swaggo/files",
+          "ecosystem": "GO",
+          "version": "1.0.1",
+          "githubOrg": "swaggo",
+          "githubRepo": "files",
+          "githubCommit": "1a833f8eb39cfbecb4025979f3a3c8b98a2f1995",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/swaggo/files",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/xdg-go/pbkdf2",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "xdg-go",
+          "githubRepo": "pbkdf2",
+          "githubCommit": "7f452ef1dac88350356f1bb84a23748205e64b96",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/xdg-go/pbkdf2",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/xdg-go/scram",
+          "ecosystem": "GO",
+          "version": "1.1.2",
+          "githubOrg": "xdg-go",
+          "githubRepo": "scram",
+          "githubCommit": "17629a50d5ce12875d83f9095809ae43b765c303",
+          "githubTag": "v1.1.2",
+          "githubUrl": "https://github.com/xdg-go/scram",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/xdg-go/stringprep",
+          "ecosystem": "GO",
+          "version": "1.0.4",
+          "githubOrg": "xdg-go",
+          "githubRepo": "stringprep",
+          "githubCommit": "dabf77401b04b57597914595d170883092e0df3c",
+          "githubTag": "v1.0.4",
+          "githubUrl": "https://github.com/xdg-go/stringprep",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/youmark/pkcs8",
+          "ecosystem": "GO",
+          "version": "0.0.0-20240726163527-a2c0da244d78",
+          "githubOrg": "youmark",
+          "githubRepo": "pkcs8",
+          "githubUrl": "https://github.com/youmark/pkcs8",
+          "source": "build_file:go.mod"
+        }
       ]
     }
   ],
